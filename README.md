@@ -1,2 +1,2 @@
-# Predicting-Weather-Parameters-and-Heat-Index-Using-Deep-Neural-Networks
- A Deep Learning (LSTM & ANN) approach for predicting Weather and the Heat Index
+# Weather Parameters and Heat Index Prediction Applying Deep Neural Networks
+The project titled "Weather Parameters and Heat Index Prediction Applying Deep Neural Networks" focuses on predicting weather parameters and the heat index using advanced deep learning techniques. It involves the detection of essential weather parameters and conducting time series analysis of 10 years of data using LSTM (Long Short-Term Memory) networks. The project further classifies the heat index using Artificial Neural Networks (ANN). Implemented in Python, the project utilises libraries such as TensorFlow, Keras, Pandas, NumPy, and Scikit-learn for data handling and modelling, while Matplotlib is employed for visualisation, providing insights into the relationships between weather parameters and heat index predictions.
